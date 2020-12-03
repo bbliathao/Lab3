@@ -8,3 +8,23 @@ output a message to the users
 end
 """
 
+"""
+create list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+
+capture input
+append number to list
+sort the list, then splice out the two lowest number
+print message to user
+"""
